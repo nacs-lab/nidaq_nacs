@@ -1,0 +1,7 @@
+server:
+    listen: tcp://*:8889
+devices:
+    Dev1:
+        sample_rate: 500000
+        trig_chn: PFI1
+        clock_chn: PFI0

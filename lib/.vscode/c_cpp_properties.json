@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/",
+                "C:/msys64/mingw64/include",
+                "C:/msys64/home/Tweezer5/projects/libnacs/build-dbg/.cmake_utils_base/cmake_c_macros/include_fix",
+                "C:/msys64/home/Tweezer5/projects/libnacs/build/lib/utils",
+                "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+                "C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
